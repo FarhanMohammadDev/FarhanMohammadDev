@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m FARHAN Mohammad</h1>
+<!-- <h1 align="center">Hi 👋, I’m FARHAN Mohammad</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanmohammaddev&label=Profile%20views&color=0e75b6&style=flat" alt="farhanmohammaddev" /> </p>
@@ -19,4 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanmohammaddev&show_icons=true&locale=en&layout=compact" alt="farhanmohammaddev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanmohammaddev&show_icons=true&locale=en" alt="farhanmohammaddev" /></p>
-
+ -->
