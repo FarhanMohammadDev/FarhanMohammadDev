@@ -20,3 +20,129 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanmohammaddev&show_icons=true&locale=en" alt="farhanmohammaddev" /></p>
  -->
+<h1 align="center">Hi 👋, I'm FARHAN Mohammad</h1>
+<h3 align="center">Full-Stack Developer | DevOps Engineer | Smart Platforms Builder 🚀</h3>
+
+<p align="center">
+Building scalable digital ecosystems (E-Solutions, Smart Nexus, Smart Pulse)
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farhanmohammaddev&label=Profile%20views&color=0e75b6&style=flat" alt="farhanmohammaddev" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💼 Full-Stack Developer at **Skills Conseil et Développement (SCD)**
+- 🧠 DevOps Engineer (Docker • Kubernetes • CI/CD • Microservices)
+- 🌍 Based in Morocco 🇲🇦
+- 🏗️ Building **Smart Ecosystem Platforms**:
+  - 🟣 E-Solutions (Client Platform)
+  - 🟢 Smart Pulse (Broker Platform)
+  - 🧠 Smart Nexus (Insurance Core)
+
+- 🔥 Passionate about:
+  - Microservices Architecture
+  - Scalable SaaS Platforms
+  - Clean Architecture & System Design
+
+---
+
+## 🧠 Current Focus
+
+- ⚙️ Microservices with **Spring Boot & Node.js**
+- 🐳 Docker / Kubernetes (Minikube, Kustomize)
+- 🔄 CI/CD with GitLab
+- ⚡ Next.js (App Router, TypeScript, Tailwind)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mohammadfarhan" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/farhan.ted" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.youtube.com/c/farhan ted" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- React.js / Next.js
+- TypeScript
+- Tailwind CSS
+- Redux
+
+### 🧩 Backend
+- Node.js / Express.js
+- Spring Boot (Java)
+- Laravel (PHP)
+
+### 🗄️ Database
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### ⚙️ DevOps
+- Docker
+- Kubernetes
+- GitLab CI/CD
+- Nginx
+
+### 🧪 Tools
+- Postman
+- Git
+- Figma
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanmohammaddev&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanmohammaddev&show_icons=true&locale=en" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=farhanmohammaddev&theme=onedark" />
+</p>
+
+---
+
+## 📌 Featured Vision
+
+> 🚀 Building the **Odoo of Insurance & Mobility**
+>
+> A unified ecosystem connecting:
+> - Clients
+> - Brokers
+> - Insurance Core Systems
+>
+> Through scalable, modular, and cloud-native architecture.
+
+---
+
+## ✨ Motto
+
+> “Build systems that scale. Design platforms that last.”
+
+---
