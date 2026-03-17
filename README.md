@@ -20,17 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanmohammaddev&show_icons=true&locale=en" alt="farhanmohammaddev" /></p>
  -->
-<h1 align="center">Hi 👋, I'm FARHAN Mohammad</h1>
-<h3 align="center">Full-Stack Developer | DevOps Engineer | Smart Platforms Builder 🚀</h3>
-
-<p align="center">
-Building scalable digital ecosystems (E-Solutions, Smart Nexus, Smart Pulse)
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farhanmohammaddev&label=Profile%20views&color=0e75b6&style=flat" alt="farhanmohammaddev" />
-</p>
-
 ---
 <h1 align="center">Hi 👋, I'm Mohammad Farhan</h1>
 <h3 align="center">Full-Stack Developer & DevOps Engineer 🚀</h3>
