@@ -32,90 +32,102 @@ Building scalable digital ecosystems (E-Solutions, Smart Nexus, Smart Pulse)
 </p>
 
 ---
+<h1 align="center">Hi 👋, I'm Mohammad Farhan</h1>
+<h3 align="center">Full-Stack Developer & DevOps Engineer 🚀</h3>
 
-## 🚀 About Me
+<p align="center">
+💻 Building scalable web platforms | ⚙️ Automating systems | ☁️ Cloud-native mindset
+</p>
 
-- 💼 Full-Stack Developer at **Skills Conseil et Développement (SCD)**
-- 🧠 DevOps Engineer (Docker • Kubernetes • CI/CD • Microservices)
-- 🌍 Based in Morocco 🇲🇦
-- 🏗️ Building **Smart Ecosystem Platforms**:
-  - 🟣 E-Solutions (Client Platform)
-  - 🟢 Smart Pulse (Broker Platform)
-  - 🧠 Smart Nexus (Insurance Core)
-
-- 🔥 Passionate about:
-  - Microservices Architecture
-  - Scalable SaaS Platforms
-  - Clean Architecture & System Design
-
----
-
-## 🧠 Current Focus
-
-- ⚙️ Microservices with **Spring Boot & Node.js**
-- 🐳 Docker / Kubernetes (Minikube, Kustomize)
-- 🔄 CI/CD with GitLab
-- ⚡ Next.js (App Router, TypeScript, Tailwind)
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/mohammadfarhan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/farhan.ted" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.youtube.com/c/farhan ted" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farhanmohammaddev&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+- 💼 Full-Stack Developer at **Skills Conseil et Développement (SCD)** since Sept 2024
+- 🧠 DevOps Certified (Simplon Maghreb – 2025/2026)
+- 🌍 Based in Casablanca, Morocco 🇲🇦
+- ⚡ 2+ years experience in web development & system design
+
+🔎 I specialize in:
+- Building scalable web applications
+- Designing clean architectures (API-first, microservices)
+- Automating deployment pipelines (CI/CD)
+
+---
+
+## 🚀 Tech Stack
 
 ### 💻 Frontend
 - React.js / Next.js
-- TypeScript
-- Tailwind CSS
-- Redux
+- TypeScript / JavaScript
+- Tailwind CSS / Bootstrap
+- Redux / Axios
 
 ### 🧩 Backend
 - Node.js / Express.js
 - Spring Boot (Java)
 - Laravel (PHP)
+- REST APIs
 
-### 🗄️ Database
-- MongoDB
-- MySQL
-- PostgreSQL
+### 🗄️ Databases
+- MongoDB (Mongoose)
+- MySQL / PostgreSQL
+- SQL / PL-SQL
 
-### ⚙️ DevOps
-- Docker
-- Kubernetes
+### ⚙️ DevOps & Cloud
+- Docker / Kubernetes
 - GitLab CI/CD
-- Nginx
+- Linux / Bash scripting
+- AWS / GCP (basics)
 
 ### 🧪 Tools
+- Git / GitHub / GitLab
 - Postman
-- Git
 - Figma
+- Jira / Trello
+- Jest (testing)
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Skills Conseil et Développement (SCD)
+**Full-Stack Developer** — *Sep 2024 → Present*
+
+- Development with React.js, Next.js & Laravel
+- Database optimization (MySQL)
+- UX/UI collaboration
+- Code reviews & best practices
+
+---
+
+### 🏢 C2M
+**Full-Stack Developer** — *Jun 2023 → Nov 2023*
+
+- Payroll management system
+- Stack: Laravel, Bootstrap, jQuery, Axios
+
+---
+
+### 🎓 FINREG (Final Year Project)
+**E-commerce Platform**
+
+- Full-stack development using Laravel ecosystem
 
 ---
 
 ## 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanmohammaddev&show_icons=true&locale=en&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanmohammaddev&show_icons=true&layout=compact" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanmohammaddev&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanmohammaddev&show_icons=true" />
 </p>
 
 ---
@@ -128,21 +140,32 @@ Building scalable digital ecosystems (E-Solutions, Smart Nexus, Smart Pulse)
 
 ---
 
-## 📌 Featured Vision
+## 🌐 Connect with Me
 
-> 🚀 Building the **Odoo of Insurance & Mobility**
->
-> A unified ecosystem connecting:
-> - Clients
-> - Brokers
-> - Insurance Core Systems
->
-> Through scalable, modular, and cloud-native architecture.
+<p align="left">
+<a href="https://linkedin.com/in/FarhanMohammadDev">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/farhan.ted">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🧠 Soft Skills
+
+- 🤝 Teamwork & Agile collaboration
+- ⚡ Fast learner & adaptability
+- 🎯 Problem-solving mindset
+- 🚀 Initiative & creativity
 
 ---
 
 ## ✨ Motto
 
-> “Build systems that scale. Design platforms that last.”
+> “Build scalable systems. Deliver real value.”
 
+---
 ---
